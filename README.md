@@ -16,7 +16,7 @@ You will need to have a package manager installed on your computer, [Chocolatey]
 Download the bot.py file to your computer. In terminal, navigate to its folder. 
 
 ## Running Instructions ##
-Begin running at least a minute before 7:00 AM. The program will wait/keep running until 7:00 AM to register you for your classes. 
+Begin running at least 5 minutes before your selected time. The program will wait/keep running until the time you want.
 
     python bot.py
 
