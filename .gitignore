@@ -1,0 +1,11 @@
+.vscode/
+env/
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/SIS-Bot.iml
+/.idea/vcs.xml
+/.env
+/.idea/workspace.xml
+/debug.log
